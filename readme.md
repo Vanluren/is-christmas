@@ -1,6 +1,6 @@
 # is-christmas [![Build Status](https://travis-ci.org/thejameskyle/is-christmas.svg?branch=master)](https://travis-ci.org/thejameskyle/is-christmas)
 
-> Is today Christmas?
+> Is today Christmas?(Scandinavia-Style)
 
 
 ## Install
@@ -39,5 +39,5 @@ $ is-christmas --help
 
 
 ## License
-
+Forked from:
 MIT © [James Kyle](https://github.com/thejameskyle)
