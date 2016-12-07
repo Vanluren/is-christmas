@@ -1,6 +1,6 @@
 'use strict';
 
-var xmas = new Date('December 25');
+var xmas = new Date('December 24');
 
 module.exports = function () {
 	var today = new Date();
